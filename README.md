@@ -1,5 +1,5 @@
 # Planck
-These are my keyboard layouts for the OLBK Planck Keyboard (v6)
+These are my keyboard layouts for the [OLBK Planck Keyboard (v6)](https://drop.com/buy/planck-mechanical-keyboard?utm_source=linkshare&referer=34U8GJ)
 
 ## About these Layouts
 These layouts are designed with programming in mind, specifically in [Vim](https://www.vim.org/). The goal is to make all the numbers, brackets, math operators, and other programming keys easy to reach and use with simple keystrokes. Personally, I'm always trying to find more comfortable and more efficient ways to use my keyboard while operating computers, whether that's programming in Vim or navigating webpages.
